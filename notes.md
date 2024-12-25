@@ -16,6 +16,18 @@
 - add the sync user function
 - run the app
 - check database
+- add custom spinner
 
+# HEADER
+- add folder and file
+- import in the layout
+- style it
+- add the search component
+- use nextjs Form
+
+
+# CREATE POST
+- schema
+- app layout
 
 
